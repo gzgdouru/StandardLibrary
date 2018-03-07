@@ -1,0 +1,4 @@
+﻿  main.cpp
+f:\cplusplus\standardlibrary\bitset\main.cpp(29): warning C4244: “参数”: 从“double”转换到“_ULonglong”，可能丢失数据
+  bitset.vcxproj -> F:\cplusplus\StandardLibrary\Debug\bitset.exe
+  bitset.vcxproj -> F:\cplusplus\StandardLibrary\Debug\bitset.pdb (Full PDB)

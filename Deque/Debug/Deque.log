@@ -1,0 +1,4 @@
+﻿  UnitTest.cpp
+f:\cplusplus\standardlibrary\deque\unittest.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+  Deque.vcxproj -> F:\cplusplus\StandardLibrary\Debug\Deque.exe
+  Deque.vcxproj -> F:\cplusplus\StandardLibrary\Debug\Deque.pdb (Full PDB)

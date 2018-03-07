@@ -1,0 +1,8 @@
+﻿  main.cpp
+f:\cplusplus\standardlibrary\priorityqueue\main.cpp(6): warning C4305: “参数”: 从“double”到“float”截断
+f:\cplusplus\standardlibrary\priorityqueue\main.cpp(7): warning C4305: “参数”: 从“double”到“float”截断
+f:\cplusplus\standardlibrary\priorityqueue\main.cpp(8): warning C4305: “参数”: 从“double”到“float”截断
+f:\cplusplus\standardlibrary\priorityqueue\main.cpp(15): warning C4305: “参数”: 从“double”到“float”截断
+f:\cplusplus\standardlibrary\priorityqueue\main.cpp(17): warning C4305: “参数”: 从“double”到“float”截断
+  priorityQueue.vcxproj -> F:\cplusplus\StandardLibrary\Debug\priorityQueue.exe
+  priorityQueue.vcxproj -> F:\cplusplus\StandardLibrary\Debug\priorityQueue.pdb (Full PDB)

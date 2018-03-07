@@ -1,0 +1,29 @@
+﻿  main.cpp
+f:\cplusplus\standardlibrary\algorithm\main.cpp(42): warning C4101: “RemoveAlgoTest”: 未引用的局部变量
+f:\cplusplus\standardlibrary\algorithm\main.cpp(20): warning C4101: “nonModifyAlgo”: 未引用的局部变量
+f:\cplusplus\standardlibrary\algorithm\main.cpp(13): warning C4101: “foreachTest”: 未引用的局部变量
+d:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2798): warning C4244: “参数”: 从“const double”转换到“const float”，可能丢失数据
+  d:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2822): note: 参见对正在编译的函数 模板 实例化“_OutIt std::_Fill_n_unchecked1<_OutIt,_Diff,_Ty>(_OutIt,_Diff,const _Ty &,std::false_type)”的引用
+          with
+          [
+              _OutIt=std::ostream_iterator<float,char,std::char_traits<char>>,
+              _Diff=int,
+              _Ty=double
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2831): note: 参见对正在编译的函数 模板 实例化“_OutIt std::_Fill_n_unchecked<_Iter,_Diff,_Ty>(_OutIt,_Diff,const _Ty &)”的引用
+          with
+          [
+              _OutIt=std::ostream_iterator<float,char,std::char_traits<char>>,
+              _Iter=std::ostream_iterator<float,char,std::char_traits<char>>,
+              _Diff=int,
+              _Ty=double
+          ]
+  f:\cplusplus\standardlibrary\algorithm\modifyalgo.hpp(114): note: 参见对正在编译的函数 模板 实例化“_OutIt std::fill_n<std::ostream_iterator<float,char,std::char_traits<char>>,int,double>(_OutIt,_Diff,const _Ty &)”的引用
+          with
+          [
+              _OutIt=std::ostream_iterator<float,char,std::char_traits<char>>,
+              _Diff=int,
+              _Ty=double
+          ]
+  algorithm.vcxproj -> F:\cplusplus\StandardLibrary\Debug\algorithm.exe
+  algorithm.vcxproj -> F:\cplusplus\StandardLibrary\Debug\algorithm.pdb (Full PDB)
